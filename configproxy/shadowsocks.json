@@ -1,0 +1,8 @@
+{
+    "server":"45.76.187.171",
+    "server_port":25,
+    "local_port":1080,
+    "password":"fjirsmrobot",
+    "timeout":600,
+    "method":"aes-256-cfb"
+}
